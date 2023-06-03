@@ -12,7 +12,7 @@ class Task():
         self.completed_tasks = []
         
         
-    # all users to find help 
+    # allow users to find help 
     def app_help(self):
         
         print("""You can use this app to create to-do-lists and manage your tasks:\n
