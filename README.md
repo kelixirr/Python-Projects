@@ -11,9 +11,9 @@ This unique notes app in python allows users to create and manage notes on their
  - How to work with files
  - How to work with os module. 
  - How to accept input and validate them based on stored files. 
- - How tp delete a word and replace it with new one in text. 
+ - How to delete a word and replace it with new one in text. 
  - How to insert new lines at the end and anywhere in the text. 
- - How to make an userfriendly app by handling errors. 
+ - How to make an user friendly app by handling errors. 
  - How to use while loop and for loop with file management. 
  - and many things. 
 
