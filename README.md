@@ -34,5 +34,7 @@ This project uses one-time pad method. Please read about before you start. Also 
 #### source 
 This prject is taken from the book: Real World Python: A Hacker 39s Guide to Solving Problems with Code 
 
+## 4. ChatGPT as Smart Dictionary
+Unleash the power of ChatGPT to create your own word meaning collection and build your dictionary as you continue to read and browse web apps or e-books and copy new words to your clipboard. All you have to do is copy a new word and your dictionary will be prepared with new & old words every time you run the code. 
 
 More projects are coming soon. 
