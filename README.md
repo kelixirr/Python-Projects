@@ -37,9 +37,17 @@ This project uses one-time pad method. Please read about before you start. Also 
 4. Spell out numbers
 
 #### source 
-This prject is taken from the book: Real World Python: A Hacker 39s Guide to Solving Problems with Code 
+The above prject is taken from the book: Real World Python: A Hacker 39s Guide to Solving Problems with Code 
 
 ## 4. ChatGPT as Smart Dictionary
 Unleash the power of ChatGPT to create your own word meaning collection and build your dictionary as you continue to read and browse web apps or e-books and copy new words to your clipboard. All you have to do is copy a new word and your dictionary will be prepared with new & old words every time you run the code. 
+
+## 5. Phone Number And Email Extractor Using Regex 
+
+Extract phone number and email address from text content copied on clipboard and get the details of all the available phone number and emails pasted using pyperclip module. 
+
+## 6. Generating Random Quiz
+
+Create quizzes with questions and answers in random order, along with the answer key and save them in different/unique files. 
 
 More projects are coming soon. 
