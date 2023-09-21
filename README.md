@@ -50,4 +50,8 @@ Extract phone number and email address from text content copied on clipboard and
 
 Create quizzes with questions and answers in random order, along with the answer key and save them in different/unique files. 
 
+## Multiclipboard 
+
+Python program to keep track of multiple pieces of text.
+
 More projects are coming soon. 
