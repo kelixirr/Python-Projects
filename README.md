@@ -58,4 +58,8 @@ Python program to keep track of multiple pieces of text.
 
 Renames filenames with American MM-DD-YYYY date format to European DD-MM-YYYY.
 
+## 9. Backing Up a Folder into a ZIP File 
+
+Copies an entire folder and its contents into a ZIP file whose filename increments.
+
 More projects are coming soon. 
