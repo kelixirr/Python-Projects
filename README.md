@@ -54,4 +54,8 @@ Create quizzes with questions and answers in random order, along with the answer
 
 Python program to keep track of multiple pieces of text.
 
+## 8. Renaming Files
+
+Renames filenames with American MM-DD-YYYY date format to European DD-MM-YYYY.
+
 More projects are coming soon. 
