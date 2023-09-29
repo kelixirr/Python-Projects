@@ -75,9 +75,9 @@ guides the user back through prior comics. Downloading each comic by
 hand would take forever, but you can write a script to do this in a couple of
 minutes.
 Here’s what your program does:
-•	 Loads the XKCD home page.
-•	 Saves the comic image on that page.
-•	 Follows the Previous Comic link.
-•	 Repeats until it reaches the first comic.
+- Loads the XKCD home page.
+- Saves the comic image on that page.
+- Follows the Previous Comic link.
+- Repeats until it reaches the first comic.
 
 More projects are coming soon. 
