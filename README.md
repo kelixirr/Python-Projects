@@ -62,4 +62,12 @@ Renames filenames with American MM-DD-YYYY date format to European DD-MM-YYYY.
 
 Copies an entire folder and its contents into a ZIP file whose filename increments.
 
+## 10. Opens several Google search results - Web Scrapping Project
+
+This is what your program does:
+- Gets search keywords from the command line arguments.
+- Retrieves the search results page.
+- Opens a browser tab for each result.
+
+
 More projects are coming soon. 
