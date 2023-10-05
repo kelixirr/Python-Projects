@@ -80,4 +80,12 @@ Here’s what your program does:
 - Follows the Previous Comic link.
 - Repeats until it reaches the first comic.
 
+## 12. Time, Dates. Multithreaded Projects
+
+In this project we have worked on three different projects inlcuding:
+
+1. A Stopwatch
+2. Countdown
+3. Multithreaded Programming
+
 More projects are coming soon. 

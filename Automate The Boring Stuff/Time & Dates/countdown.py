@@ -1,4 +1,4 @@
-import time, subproces
+import time, subprocess
 
 timeLeft = 60
 while timeLeft > 0:
@@ -7,4 +7,4 @@ while timeLeft > 0:
   timeLeft = timeLeft - 1
 
 # at the end 
-subproces.Popen(["Start", 'alarm.wav'], shell = True)
+subprocess.Popen(["Start", 'alarm.wav'], shell = True)
