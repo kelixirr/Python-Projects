@@ -107,4 +107,8 @@ This application is designed to showcase how one can design an ecommerce platfor
 3. Allow users to see their expenses
 4. Allow users to connect support 
 
+
+## Signup & Login Form In Python For Any Application 
+Create a signup and login form in python for any application. Password encryption and decryption are not included. You can write your own algorithm for that or use external library. Check the small projects file for the code.
+
 and many more. 
