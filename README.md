@@ -92,15 +92,15 @@ More projects are coming soon.
 
 ## 13. HDF5 Dataset Converter
 
-Convert data to HDF5 format
+Convert data to HDF5 format. 
 
 ## 14. Small Projects
 
 Small projects for beginners
 
-## 15. Blinkit & Zepto Implementation In Python: Only User facing
+## 15. Blinkit & Zepto Implementation In Python: Only user-facing
 
-This application is designed to showcase how one can design an ecommerce platform using python and also to showcase how one can understand the functioning of modern businessness like Zepto and Blinkit. This program just shows the user facing functionality.
+This application is designed to showcase how one can design an ecommerce platform using Python and also to showcase how one can understand the functioning of modern businessness like Zepto and Blinkit. This program just shows the user-facing functionality.
 
 1. Allow users to place order
 2. Manage Inventory
